@@ -1,0 +1,47 @@
+img{
+    width: 1000px;
+    height: 450px;
+}
+.cooking{
+    background-color:#FFF7FC;
+    font-family: 'Young Serif';
+    font-size: 25px;
+}
+
+h3{
+    color: #6A2642;
+    font-size: 50px;
+}
+
+.in{
+    font-size: 25px;
+    padding-top: 10px;
+    border-top: 10px;
+    color: #6A2642;
+    font-family: sans-serif;
+}
+
+.open{
+    font-size: 20px;
+    color: #63625E;
+    border-top: 5px solid #E0E0E0;
+    border-bottom: 5px solid #E0E0E0;
+    font-family: sans-serif;
+
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h2{
+    color:#6A2642;
+    font-size: 60px;
+}
+h5{
+    word-spacing: 300px;
+    border-bottom: 5PX solid #E0E0E0;
+    font-size: 30px;
+}
+
+
